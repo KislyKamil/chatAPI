@@ -1,0 +1,11 @@
+.body {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    margin-top: 50px
+}
+
+.row{
+    left: 35%;
+    position: relative;
+}

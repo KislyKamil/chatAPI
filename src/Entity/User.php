@@ -50,6 +50,11 @@ class User implements UserInterface
      */
     private $participants;
 
+    /**
+     * @ORM\Column(type="string", unique=true, nullable=true)
+     */
+    private $apiToken;
+
     public function __construct()
     {
         $this->messages = new ArrayCollection();

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76a42eec-b1d1-4634-a56e-712333c8b9c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/clientApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Auth/BasicForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Auth/Form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Auth/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Auth/RegisterForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Button/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Button/SubmitButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Input/EmailInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Spinner/Spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Spinner/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/Spinner/SpinnerNd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/card2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/components/UI/assets/images/test2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/container/Auth/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/container/Auth/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/container/ChatPanel/MainChat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/hoc/Auxiliary/Auxiliary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/hoc/Layout/Layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/hoc/Layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatapp/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../migrations/Version20210105173855.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Security/Auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Entity/User.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mf2lZka97JMCcpLhzXxWNLPbtf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a42eec-b1d1-4634-a56e-712333c8b9c3" name="Default Changelist" comment="" />
+      <created>1609870478072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609870478072</updated>
+      <workItem from="1609870479801" duration="416000" />
+      <workItem from="1609870929162" duration="5085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

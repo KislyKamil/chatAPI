@@ -8,3 +8,10 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+clientApp/node_modules/
+node_modules/
+*node_modules/*
+
+# Ignore .idea files
+clientApp/.idea/
+.idea/

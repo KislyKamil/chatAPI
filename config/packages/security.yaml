@@ -5,7 +5,7 @@ security:
         app_user_provider:
             entity:
                 class: App\Entity\User
-                property: email
+                property: apiToken
     encoders:
         # use your user class name here
         App\Entity\User:
@@ -21,6 +21,9 @@ security:
 #            anonymous: true
             lazy: true
             provider: users_in_memory
+            guard:
+                authenticators:
+                    - App\Security\Auth
     enable_authenticator_manager: true
 
             # activate different ways to authenticate
